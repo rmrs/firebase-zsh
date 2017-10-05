@@ -10,7 +10,7 @@ Add a prompt indication that you're in a directory with `firebase.json` (aka "fi
 
 ## Getting started
 
-Download the plugin file [`firebase.plugin.zsh`](https://) and move it to
+Download the plugin file [`firebase.plugin.zsh`](https://github.com/rmrs/firebase-zsh/raw/master/firebase.plugin.zsh) and move it to
 `~/.oh-my-zsh/plugins/firebase/firebase.plugin.zsh`.
 
 Add the given plugin to your `plugins` list in the `.zshrc` file:
